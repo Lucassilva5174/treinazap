@@ -1,4 +1,4 @@
-name: TreinaZap-PRD - PARA S3
+name: Deploy TreinaZap - S3
 
 on:
   push:
